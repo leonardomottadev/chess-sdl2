@@ -1,5 +1,5 @@
 # chess-sdl2
-Playable chess game, written in **C++**, that uses **SDL2** and **SDL2_image** graphic/media libraries.
+Playable chess game written in **C++**
 
 ## Preview video
 [![Chess](https://i3.ytimg.com/vi/t80xjY6SwNA/maxresdefault.jpg)](https://www.youtube.com/watch?v=t80xjY6SwNA )

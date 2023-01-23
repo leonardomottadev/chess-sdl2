@@ -1,7 +1,7 @@
 # chess-sdl2
 Playable chess game written in **C++**
 
-## Preview video
+## Demo video
 [![Chess](https://i3.ytimg.com/vi/t80xjY6SwNA/maxresdefault.jpg)](https://www.youtube.com/watch?v=t80xjY6SwNA )
 https://youtu.be/t80xjY6SwNA
 ## Features
